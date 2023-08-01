@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Recipe App Challenge</string>
+    <string name="title">title</string>
+    <string name="testo">testo</string>
+    <string name="ricetta">ricetta</string>
+    <string name="main_title">title</string>
+    <string name="main_description">description</string>
+
+    <string-array name="descrizioneRicette">
+        <item>Spaghetti all\'amatriciana, scopri come fare questo primo piatto in casa! La ricetta dell\'amatriciana originale, con tutti i segreti e consigli.</item>
+        <item>La pasta al pesto è un classico primo piatto che si prepara con il pesto di basilico e che piace davvero a tutti. da fare con e per i bambini domenica senza carne senza pesce ... La pasta al pesto è un classico primo piatto che si prepara con il pesto di basilico.</item>
+        <item>Tra i primi piatti facili e veloci ce n’è uno che spacca sempre: gli spaghetti aglio e olio, pronti in pochi minuti e buonissimi da portare in tavola quando abbiamo poco tempo e non vogliamo rinunciare a sapori decisi e mediterranei. Il tempo per cucinare a volte non c’è, lo sappiamo bene, e in quei casi un piatto di pasta ci salva sempre.</item>
+        <item>I deliziosi spaghetti allo scoglio si realizzano facendo spurgare cannolicchi e fasolari in acqua e poi rosolandoli in padella con cipolla e pomodori pelati; una volta che la salsa sarà pronta verrà utilizzata per condire gli spaghetti lessati al dente. Ecco i passaggi della ricetta degli spaghetti allo scoglio illustrati nel dettaglio.</item>
+        <item>La pasta burro e salvia è velocissima da fare ma sempre gradita da tutta la famiglia. Ideale quando non si ha un condimento pronto per la pasta e tutta la famiglia ha fame e non ha tempo di aspettare! ... Far bollire l’acqua con il sale grosso, quando bolle aggiungere la pasta nel formato che vi piace di più. In una padella capiente mettete il burro, quando è sciolto aggiungete le foglie di salvia spezzettate, fate insaporire bene, se occorre aggiungete un po’ di acqua calda della pasta.</item>
+    </string-array>
+
+    <string-array name="titoloRicette">
+        <item>Pasta all\'Amatriciana</item>
+        <item>Pasta al Pesto</item>
+        <item>Pasta Aglio e Olio</item>
+        <item>Linguine allo Scoglio</item>
+        <item>Pasta burro e salvia</item>
+    </string-array>
+
+    <string-array name="testoRicette">
+        <item>L’Amatriciana è un primo piatto tipico della cucina di Amatrice nella regione Lazio amatissimo in tutto il mondo!\n
+        Si tratta di pasta: bucatini o spaghetti conditi con il classico sugo all’amatriciana a base di pomodori pelati, guanciale e pecorino. Una bontà unica che nasce ad Amatrice come pasto principale dei pastori.\n
+        In origine senza pomodoro, prendeva il nome di Gricia, solo in seguito, quando venne importato dall’America, fu aggiunto alla ricetta e venne così chiamata di “Amatriciana“. Diventata nel tempo un vero e proprio caposaldo della gastronomia italiana così come la Carbonara e la Cacio e pepe;  dal 2020 è riconosciuta come specialità tradizionale garantita dall’Unione Europea!\n
+        Seguite questa Ricetta Amatriciana corredata da tutti i Consigli e Segreti passo passo e preparerete a casa vostra dei Bucatini all’amatriciana perfetti!  Cremosi, avvolgenti, saporiti in poche mosse! Proprio come quelli dei migliori ristoranti laziali e della Capitale!
+        Come ogni ricetta tradizionale esistono numerose versioni e piccole varianti che possono fare la differenza. Quella che vi regalo oggi è la Ricetta originale dell’Amatriciana rregalatami da un amico chef romano doc. Si tratta di una preparazione facile e anche veloce.\n
+        I segreti per un risultato a regola d’arte sono ingredienti tipici e di prima qualità: tradizione vuole che si usino i Bucatini, ma nulla vi vieta di preparare dei gustosi Spaghetti all’amatriciana.\n
+        Importante che siano di ottima fattura e che tengano la cottura. Ricordate no alla pancetta, sì al guanciale, meglio se di Amatrice, dell’ottimo pecorino romano dop e pomodori pelati San Marzano.\n
+        Un trucco speciale è la risottatura della pasta nel sugo, questo passaggio vi farà ottenere una pasta all’amatriciana di una cremosità senza paragoni!\n
+        Provare per credere! Proprio come la Pasta alla norma, la Puttanesca e gli Spaghetti alle vongole, Gnocchi alla sorrentina, anche l’Amatriciana è quel primo che piace sempre a tutti, bambini compresi; ideali per pranzo, cena, domeniche in famiglia, sabati sera con gli amici e occasioni più speciali. Provateli in questa versione e arriveranno gli applausi!\n\n</item>
+        <item>La pasta al pesto è un classico primo piatto che si prepara con il pesto di basilico. Piace davvero a tutti, grandi e piccini!\n
+        Condimento goloso e profumato, il pesto di basilico di Benedetta si prepara davvero in cinque minuti e con pochissimi ingredienti!
+        Servono, infatti, soltanto del basilico fresco, dell’olio d’oliva, dei pinoli, del parmigiano e, in pochi minuti, realizzeremo un pesto perfetto per condire la pasta.\n
+        Ricco e inconfondibile, il pesto nella pasta sprigiona tutta la sua bontà, creando un condimento cremoso da raccogliere perfino con una bella “scarpetta”!
+        Per la pasta al pesto possiamo scegliere il formato di pasta che più ci piace. Come le pennette, le mezze maniche o i rigatoni, ma anche spaghetti, linguine. E perfino la pasta fresca!\n
+        Il pesto di basilico si può anche preparare in anticipo, raccogliendo il basilico quando è bello rigoglioso, per poi conservarlo in barattolini monodose e congelarlo. E scongelarlo per utilizzarlo quando serve.\n
+        Vediamo, allora, come preparare la pasta al pesto.\n\n</item>
+        <item>Tra i primi piatti facili e veloci ce n’è uno che spacca sempre: gli spaghetti aglio e olio, pronti in pochi minuti e buonissimi da portare in tavola quando abbiamo poco tempo e non vogliamo rinunciare a sapori decisi e mediterranei.\n
+        <b>Spaghetti aglio e olio: gustosi, facili, veloci</b>\n
+        Il tempo per cucinare a volte non c’è, lo sappiamo bene, e in quei casi un piatto di pasta ci salva sempre. Nutriente, facilissimo da preparare e versatile, può risultare bello saporito anche con pochissimi ingredienti, proprio come nel caso degli spaghetti aglio e olio. Il condimento si prepara in un attimo, giusto i minuti di cottura degli spaghetti.\n
+        Basta rosolare l’aglio nell’olio per qualche istante, in modo che si insaporisca bene, ma facendo attenzione a non bruciarlo. Decidiamo noi come tagliare l’aglio: possiamo tritarlo oppure farlo a fettine.\n
+        Se invece ci piace il sapore ma non vogliamo ritrovarci a masticarlo, possiamo mettere gli spicchi tagliati a metà e toglierli un attimo prima di aggiungere gli spaghetti in padella.\n
+        Per gli amanti del piccante, noi abbiamo aggiunto anche il peperoncino tritato, che rende il condimento ancora più saporito!\n
+        Una volta che gli spaghetti sono pronti, si versano direttamente nella padella e si mescolano con il condimento con un mestolo di acqua di cottura, che grazie all’amido presente aiuta a dare un po’ di cremosità al piatto.\n\n
+        <b>Pasta aglio e olio: varianti e consigli</b>\n
+        Gli spaghetti sono l’ideale quando abbiamo i minuti contati, perché hanno un tempo di cottura normalmente più breve rispetto ad altri tipi di pasta.\n
+        Ma se non li abbiamo o se preferiamo un altro formato, possiamo scegliere liberamente.\n
+        Il peperoncino tritato che si trova al supermercato va benissimo, ma se abbiamo peperoncini di casa tanto meglio! Se non vogliamo rischiare di trovare semini nel piatto, possiamo usare quelli interi e rimuoverli prima di impiattare.\n
+        I primi piatti piccanti non piacciono a tutti i nostri ospiti? Possiamo tranquillamente eliminare il peperoncino e lasciare che chi vuole ne aggiunga un po’ in polvere nel proprio piatto.\n
+        Insomma, gli spaghetti aglio e olio sono superlativi: semplicissimi, velocissimi e buonissimi. Voi in quale occasione li preparate? Fatecelo sapere nei commenti!\n\n</item>
+        <item>Gli spaghetti allo scoglio rappresentano la quintessenza di un buon piatto di mare.\n
+        Sono preparati con la pasta, i cannolicchi, i fasolari, pomodori, aromi, un goccio di vino bianco: il massimo. Sono un piatto tipicamente estivo, ma possono essere gustati tranquillamente in tutte le stagioni, naturalmente in occasioni che contano.\n
+        A differenza dei classici spaghetti alle vongole, il condimento è più ricco e variegato.\n
+        <b>Come fare gli spaghetti allo scoglio</b>\n
+        I deliziosi spaghetti allo scoglio si realizzano facendo spurgare cannolicchi e fasolari in acqua e poi rosolandoli in padella con cipolla e pomodori pelati; una volta che la salsa sarà pronta verrà utilizzata per condire gli spaghetti lessati al dente.\n
+        Ecco i passaggi della ricetta degli spaghetti allo scoglio illustrati nel dettaglio.\n\n</item>
+        <item>È il piatto super veloce che si prepara in pochi minuti quando hai fame o semplicemente devi gestire una piccola emergenza come degli ospiti all’improvviso.\n
+        La pasta burro e salvia è davvero un passe-par-tout, facile e golosa al tempo stesso.\n
+        Nato per condire la pasta ripiena, quindi ravioli, tortelloni e via di seguito, il sughetto con burro e salvia è perfetto anche con la pasta di semola.\n
+        La lista degli ingredienti? La più corta di sempre: pasta a tua scelta, del burro e la salvia, profumata e delicata al tempo stesso. Non bisogna seguire una tecnica particolare per realizzare un’ottima pasta burro e salvia, ma ci sono dei trucchetti che condivideremo con te.\n\n</item>
+    </string-array>
+
+    <string-array name="IngredientiRicette">
+        <item><b>TEMPI DI PREPARAZIONE</b>\n
+        Preparazione: Cottura Totale\n
+        10 minuti	25 minuti	35 minuti
+        INGREDIENTI\n
+        Quantità per 4 persone\n
+        320 gr di bucatini o spaghetti\n
+        150 gr di guanciale (1 fetta spessa 1 cm da tagliare a striscioline)\n
+        400 gr di pomodori pelati\n
+        80 gr di pecorino romano\n
+        1/2 tazzina di vino bianco secco\n
+        1 peperoncino fresco\n
+        olio extravergine\n
+        sale\n</item>
+        <item><b>Ingredienti</b>\n
+        Dosi per 4 persone\n
+        320 g pasta a scelta\n
+        150 g asilico fresco\n
+        40 g parmigiano grattugiato\n
+        35 g pinoli\n
+        4 g aglio\n
+        olio extravergine di oliva\n
+        q.b.\n
+        sale fino\n
+        q.b.\n</item>
+        <item><b>Ingredienti</b>\n
+        Dosi per 4 persone\n
+        PER GLI SPAGHETTI AGLIO E OLIO\n
+        320 g spaghetti\n
+        2 spicchi aglio\n
+        peperoncino\n
+        q.b.\n
+        olio extravergine di oliva\n
+        q.b.\n
+        PER DECORARE\n
+        prezzemolo\n
+        q.b. tritato\n</item>
+        <item>DIFFICOLTÀ: Facile\n
+        ABBINAMENTO:\n
+        Tullum DOC Falanghina\n
+        COSTO: Medio\n
+        CUCINA REGIONALE: -\n
+        DOSI PER: 4 Persone\n
+        CALORIE:\n
+        1132 kcal\n
+        TEMPO:\n
+        20 min di preparazione\n
+        40 min di cottura\n</item>
+        <item>Preparazione: 5 minuti\n
+         Cottura: 10 minuti\n
+         Porzioni 4 persone\n
+        Calorie a Persona: 367\n
+        Calorie Totali: 1468\n
+        <b>INGREDIENTI</b>\n
+        320 g di pasta a tua scelta\n
+        40 g di burro\n
+        15 foglie di salvia\n</item>
+    </string-array>
+
+    <array name="immaginiRicette">
+        <item>@drawable/amatriciana</item>
+        <item>@drawable/pesto</item>
+        <item>@drawable/aglioolio</item>
+        <item>@drawable/scoglio</item>
+        <item>@drawable/burrosalvia</item>
+    </array>
+
+</resources>
